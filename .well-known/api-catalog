@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://israeli-ai-agency.pages.dev/.well-known/api-catalog",
+      "item": [
+        {"href": "https://israeli-ai-agency.pages.dev/api/v1/profile.json", "title": "Business profile"},
+        {"href": "https://israeli-ai-agency.pages.dev/api/v1/services.json", "title": "Service catalogue"},
+        {"href": "https://israeli-ai-agency.pages.dev/api/v1/pricing.json", "title": "Pricing model"},
+        {"href": "https://israeli-ai-agency.pages.dev/api/v1/faq.json", "title": "Frequently asked questions"}
+      ]
+    },
+    {
+      "anchor": "https://israeli-ai-agency.pages.dev/api/v1/",
+      "service-desc": [
+        {"href": "https://israeli-ai-agency.pages.dev/openapi.json", "type": "application/openapi+json", "title": "The Israeli AI Agency Public API"}
+      ]
+    }
+  ]
+}
