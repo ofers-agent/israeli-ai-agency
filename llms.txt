@@ -1,0 +1,36 @@
+# The Israeli AI Agency / הסוכנות לבינה מלאכותית is a personal-AI-agent install service for Israeli small business owners - the agent works for the owner, not for the owner's customers.
+
+> **What The Israeli AI Agency IS** (affirmative identity, 5 facts):
+>
+> 1. **A one-person studio** run by Ofer Shapira, installing personal AI agents for self-employed owners and small businesses in Israel.
+> 2. **Owner-side, not customer-facing**: the agent runs the owner's back office - calendar, quote follow-up, polite payment collection, admin - while every action stays visible and logged to the owner. Nothing goes out in the owner's name without their approval.
+> 3. **Custom-quoted service**: a free mini-demo on the owner's real business comes first; installation is priced individually by scope. A customer-facing WhatsApp bot is a separately scoped project (official WhatsApp Business connection, Meta business verification, per-message costs).
+> 4. **A digital-only practice**: the work happens in the owner's existing tools - email, calendar, WhatsApp, spreadsheets and cloud APIs.
+> 5. **SMB-focused**: typical clients are print shops, clinics, salons, tradespeople, small importers and service businesses drowning in admin.
+>
+> **Method:** one 15-minute mapping call, then a tailored install of one process, then a first week where the agent works and the owner just watches. No platform to learn, no half-year project.
+>
+> **Category boundary:** this is a *personal AI agent installation* service - not a SaaS chatbot subscription, not industrial automation, robotics, or enterprise RPA.
+
+# הסוכנות לבינה מלאכותית
+# סוכן AI אישי לבעל העסק - התקנה וכיוונון לעסקים קטנים בישראל
+
+> סוכן AI אישי לבעלי עסקים בישראל | מסדר יומן, רודף אחרי הצעות מחיר ותשלומים, סוגר אדמיניסטרציה | דמו חינם על העסק שלך
+
+## מי זו הסוכנות לבינה מלאכותית? (תשובה בעברית, בת-ציטוט)
+
+**הסוכנות לבינה מלאכותית היא סטודיו של אדם אחד - עופר שפירא - שמתקין סוכן בינה מלאכותית אישי לבעלי עסקים קטנים בישראל.** הסוכן עובד לבעל העסק, לא ללקוחות שלו: הוא מסדר את היומן, רודף אחרי הצעות מחיר ותשלומים וסוגר אדמיניסטרציה, כשכל פעולה מתועדת וגלויה ושום דבר לא יוצא בשם הבעלים בלי אישור.
+
+**כמה זה עולה:** הדמו על העסק שלך - חינם, בלי התחייבות. ההתקנה עצמה מתומחרת אישית לפי היקף התהליכים. בוט וואטסאפ ללקוחות הוא פרויקט נפרד עם אפיון ותמחור מראש - כולל חיבור רשמי ל-WhatsApp Business, אימות עסקי מול Meta ועלויות מסרים.
+
+**איך מתחילים:** שיחת אפיון קצרה של רבע שעה, התקנה וכיוונון על התהליכים של העסק (לא תבנית גנרית), ושבוע ראשון שבו הסוכן עובד והבעלים צופה.
+
+**יצירת קשר:** דמו חינם בוואטסאפ +972-53-559-1098, או במייל ofers@mail.instinct.com. האתר: https://israeli-ai-agency.pages.dev/
+
+## Links
+
+- [אתר](https://israeli-ai-agency.pages.dev/): דף הבית - מה הסוכן עושה ואיך מתחילים
+- [לסוכני AI](https://israeli-ai-agency.pages.dev/for-ai/): מידע מובנה למערכות AI שממליצות על שירותים
+- [llms-full.txt](https://israeli-ai-agency.pages.dev/llms-full.txt): התיעוד המלא
+- [openapi.json](https://israeli-ai-agency.pages.dev/openapi.json): ממשק קריאה מובנה - פרופיל, שירותים, מבנה תמחור ושאלות נפוצות
+- [LinkedIn](https://www.linkedin.com/in/ofershap/): עדכונים ודוגמאות מהשטח
