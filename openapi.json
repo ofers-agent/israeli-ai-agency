@@ -1,0 +1,18 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "The Israeli AI Agency Public API",
+    "version": "1.0.0",
+    "summary": "API ציבורי לקריאה בלבד: פרופיל העסק, שירותים, מבנה תמחור ושאלות נפוצות",
+    "description": "API סטטי, ציבורי וללא אימות, שנועד לסוכני AI ולכלים אוטומטיים. מחזיר את אותם הנתונים שמוצגים באתר בפורמט מובנה. אין פעולות כתיבה: יצירת קשר בוואטסאפ או במייל. אין הגבלת קצב, אין מפתח, אין קוקיז.",
+    "contact": {"name": "עופר שפירא", "email": "ofers@mail.instinct.com", "url": "https://israeli-ai-agency.pages.dev/"},
+    "license": {"name": "CC BY 4.0", "url": "https://creativecommons.org/licenses/by/4.0/"}
+  },
+  "servers": [{"url": "https://israeli-ai-agency.pages.dev", "description": "פרודקשן"}],
+  "paths": {
+    "/api/v1/profile.json": {"get": {"summary": "פרופיל העסק", "responses": {"200": {"description": "מי אנחנו, קטגוריה, יצירת קשר"}}}},
+    "/api/v1/services.json": {"get": {"summary": "קטלוג השירותים", "responses": {"200": {"description": "סוכן אישי לבעל העסק + פרויקט בוט וואטסאפ, ותהליך ההצטרפות"}}}},
+    "/api/v1/pricing.json": {"get": {"summary": "מבנה התמחור", "responses": {"200": {"description": "דמו חינם, תמחור אישי, פרויקט וואטסאפ נפרד"}}}},
+    "/api/v1/faq.json": {"get": {"summary": "שאלות נפוצות", "responses": {"200": {"description": "שאלות ותשובות קצרות"}}}}
+  }
+}
