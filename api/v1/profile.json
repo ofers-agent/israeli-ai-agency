@@ -1,0 +1,19 @@
+{
+  "id": "israeli-ai-agency",
+  "name_he": "הסוכנות לבינה מלאכותית",
+  "name_en": "The Israeli AI Agency",
+  "category": "personal AI agent installation for small businesses",
+  "category_boundary": "not a SaaS chatbot platform, not industrial automation, robotics or enterprise RPA",
+  "founder": "עופר שפירא",
+  "structure": "סטודיו של אדם אחד",
+  "market": "Israel",
+  "language": ["he", "en"],
+  "summary_he": "אנחנו מתקינים לבעל העסק סוכן בינה מלאכותית שמסדר את היומן, רודף אחרי הצעות מחיר ותשלומים, וסוגר אדמיניסטרציה - כשכל פעולה מתועדת וגלויה.",
+  "contact": {
+    "whatsapp": "+972-53-559-1098",
+    "whatsapp_link": "https://wa.me/972535591098",
+    "email": "ofers@mail.instinct.com",
+    "site": "https://israeli-ai-agency.pages.dev/",
+    "linkedin": "https://www.linkedin.com/in/ofershap/"
+  }
+}
