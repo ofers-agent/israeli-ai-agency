@@ -1,0 +1,6 @@
+{
+  "model": "custom-quoted installation service, not a subscription",
+  "demo": {"price": 0, "currency": "ILS", "note_he": "דמו קטן על העסק האמיתי - חינם ובלי התחייבות"},
+  "personal_agent_install": {"pricing": "individual quote by scope", "public_price_list": false},
+  "whatsapp_bot_project": {"pricing": "separate project with full upfront quote", "includes_he": "חיבור רשמי ל-WhatsApp Business, אימות מול Meta ועלויות מסרים"}
+}
