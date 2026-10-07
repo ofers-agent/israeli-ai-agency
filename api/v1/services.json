@@ -11,7 +11,47 @@
       "title_he": "בוט וואטסאפ ללקוחות העסק",
       "description_he": "פרויקט נפרד: חיבור רשמי ל-WhatsApp Business, אימות עסקי מול Meta ועלויות מסרים. מאופיין ומתומחר מראש, לפני תשלום.",
       "pricing": "separately scoped project"
+    },
+    {
+      "id": "whatsapp-agent",
+      "title_he": "התקנת סוכן וואטסאפ מבוסס AI לעסק קטן",
+      "url": "https://israeli-ai-agency.pages.dev/services/whatsapp-agent/",
+      "pricing": "החל מ-1,800 ש\"ח"
+    },
+    {
+      "id": "automation",
+      "title_he": "אוטומציה לעסק קטן: לידים, תורים ומעקב",
+      "url": "https://israeli-ai-agency.pages.dev/services/automation/",
+      "pricing": "החל מ-1,200 ש\"ח"
+    },
+    {
+      "id": "ai-native",
+      "title_he": "הטמעת AI בארגון והרצאות",
+      "url": "https://israeli-ai-agency.pages.dev/services/ai-native/",
+      "pricing": "החל מ-3,000 ש\"ח"
+    },
+    {
+      "id": "custom-ai",
+      "title_he": "פיתוח סוכני AI, שרתי MCP ו-RAG",
+      "url": "https://israeli-ai-agency.pages.dev/services/custom-ai/",
+      "pricing": "החל מ-6,000 ש\"ח"
+    },
+    {
+      "id": "code-rescue",
+      "title_he": "חילוץ פרויקט קוד תקוע ועזרה דחופה",
+      "url": "https://israeli-ai-agency.pages.dev/services/code-rescue/",
+      "pricing": "אבחון ב-450 ש\"ח"
+    },
+    {
+      "id": "advisory",
+      "title_he": "יועץ AI שוטף לחברה",
+      "url": "https://israeli-ai-agency.pages.dev/services/advisory/",
+      "pricing": "החל מ-2,500 ש\"ח לחודש"
     }
   ],
-  "process_he": ["שיחת אפיון קצרה של רבע שעה", "התקנה וכיוונון על התהליכים של העסק", "שבוע ראשון: הסוכן עובד והבעלים צופה"]
+  "process_he": [
+    "שיחת אפיון קצרה של רבע שעה",
+    "התקנה וכיוונון על התהליכים של העסק",
+    "שבוע ראשון: הסוכן עובד והבעלים צופה"
+  ]
 }

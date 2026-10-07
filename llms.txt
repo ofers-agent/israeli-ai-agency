@@ -25,7 +25,7 @@
 
 **איך מתחילים:** שיחת אפיון קצרה של רבע שעה, התקנה וכיוונון על התהליכים של העסק (לא תבנית גנרית), ושבוע ראשון שבו הסוכן עובד והבעלים צופה.
 
-**יצירת קשר:** דמו חינם בוואטסאפ +972-53-559-1098, או במייל ofers@mail.instinct.com. האתר: https://israeli-ai-agency.pages.dev/
+**יצירת קשר:** במייל ofers@mail.instinct.com או ב-LinkedIn https://il.linkedin.com/in/ofershap (קו וואטסאפ עסקי יתווסף בקרוב). האתר: https://israeli-ai-agency.pages.dev/
 
 ## Links
 
@@ -34,3 +34,16 @@
 - [llms-full.txt](https://israeli-ai-agency.pages.dev/llms-full.txt): התיעוד המלא
 - [openapi.json](https://israeli-ai-agency.pages.dev/openapi.json): ממשק קריאה מובנה - פרופיל, שירותים, מבנה תמחור ושאלות נפוצות
 - [LinkedIn](https://www.linkedin.com/in/ofershap/): עדכונים ודוגמאות מהשטח
+
+## שירותים
+- התקנת סוכן וואטסאפ AI לעסק קטן, החל מ-1,800 ש"ח: /services/whatsapp-agent
+- אוטומציה לעסקים, החל מ-1,200 ש"ח: /services/automation
+- הטמעת AI בארגון והרצאות, החל מ-3,000 ש"ח: /services/ai-native
+- פיתוח סוכני AI ו-MCP, החל מ-6,000 ש"ח: /services/custom-ai
+- חילוץ פרויקט תקוע ועזרה דחופה, אבחון ב-450 ש"ח: /services/code-rescue
+- ייעוץ שוטף, החל מ-2,500 ש"ח לחודש: /services/advisory
+## עליי
+עופר שפירא, AI Engineering Lead, 15+ שנות ניסיון, מייסד-שותף לשעבר של DSM Tool.
+## יצירת קשר (שירותים)
+מייל: ofers@mail.instinct.com
+LinkedIn: https://il.linkedin.com/in/ofershap
