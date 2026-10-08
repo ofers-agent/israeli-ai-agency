@@ -1,0 +1,50 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:israeli-ai-agency.pages.dev:server:israeli-ai-agency-mcp",
+      "displayName": "The Israeli AI Agency MCP Server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://israeli-ai-agency.pages.dev/mcp",
+      "capabilities": ["get_business_profile", "list_services", "get_pricing_model", "get_contact"],
+      "description": "Read-only MCP server describing The Israeli AI Agency: who it is, the services, the pricing model and how to make contact.",
+      "representativeQueries": [
+        "who installs personal AI agents for small businesses in Israel",
+        "what does The Israeli AI Agency offer and what does it cost",
+        "how do I contact Ofer Shapira about an AI agent for my business"
+      ]
+    },
+    {
+      "identifier": "urn:air:israeli-ai-agency.pages.dev:agent:agency-card",
+      "displayName": "The Israeli AI Agency Agent Card",
+      "type": "application/a2a-agent-card+json",
+      "url": "https://israeli-ai-agency.pages.dev/.well-known/agent-card.json",
+      "description": "A2A agent card for the agency's read-only information agent.",
+      "representativeQueries": [
+        "what is The Israeli AI Agency",
+        "is there an agent that explains the agency's services"
+      ]
+    },
+    {
+      "identifier": "urn:air:israeli-ai-agency.pages.dev:api:public-read-api",
+      "displayName": "The Israeli AI Agency Public Read API",
+      "type": "application/openapi+json",
+      "url": "https://israeli-ai-agency.pages.dev/openapi.json",
+      "capabilities": ["profile", "services", "pricing", "faq"],
+      "description": "OpenAPI-described, keyless read-only JSON API: business profile, service catalogue, pricing structure and FAQ.",
+      "representativeQueries": [
+        "get the service catalogue of The Israeli AI Agency as JSON",
+        "what is the pricing structure of the agency"
+      ]
+    },
+    {
+      "identifier": "urn:air:israeli-ai-agency.pages.dev:index:agent-skills",
+      "displayName": "Agent Skills Index",
+      "type": "application/json",
+      "url": "https://israeli-ai-agency.pages.dev/.well-known/agent-skills/index.json",
+      "description": "Index of the agent-facing skills and information surfaces this site publishes.",
+      "representativeQueries": [
+        "what agent-readable resources does israeli-ai-agency.pages.dev publish"
+      ]
+    }
+  ]
+}

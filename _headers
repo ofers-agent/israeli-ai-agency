@@ -1,5 +1,7 @@
 /.well-known/api-catalog
   Content-Type: application/linkset+json; charset=utf-8
+/
+  Link: </sitemap.xml>; rel="sitemap", </index.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="help"; type="text/plain", </.well-known/ard.json>; rel="ard"; type="application/json"
 /*
   Access-Control-Allow-Origin: *
   X-Content-Type-Options: nosniff

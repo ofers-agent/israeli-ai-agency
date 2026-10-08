@@ -1,0 +1,16 @@
+{
+  "name": "The Israeli AI Agency Info Agent",
+  "description": "Read-only information agent for The Israeli AI Agency - a one-person studio run by Ofer Shapira that installs personal, owner-side AI agents for small businesses in Israel. Answers who the agency is, what it offers, how pricing works and how to make contact.",
+  "url": "https://israeli-ai-agency.pages.dev/mcp",
+  "provider": { "organization": "The Israeli AI Agency", "url": "https://israeli-ai-agency.pages.dev/" },
+  "version": "1.0.0",
+  "capabilities": { "streaming": false, "pushNotifications": false },
+  "defaultInputModes": ["application/json"],
+  "defaultOutputModes": ["application/json"],
+  "skills": [
+    { "id": "business-profile", "name": "Business profile", "description": "Who the agency is, category boundaries, founder, method." },
+    { "id": "services", "name": "Service catalogue", "description": "Agent installation services and the onboarding process." },
+    { "id": "pricing", "name": "Pricing model", "description": "Free demo, individually quoted install, separately scoped WhatsApp bot project." },
+    { "id": "contact", "name": "Contact", "description": "WhatsApp, email and site for reaching the studio." }
+  ]
+}

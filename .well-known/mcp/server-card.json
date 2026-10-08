@@ -1,0 +1,55 @@
+{
+ "name": "israeli-ai-agency",
+ "title": "The Israeli AI Agency",
+ "version": "1.0.0",
+ "description": "Read-only MCP server for The Israeli AI Agency - personal AI agent installation for small businesses in Israel.",
+ "protocolVersion": "2025-06-18",
+ "transport": "streamable-http",
+ "endpoint": "https://israeli-ai-agency.pages.dev/mcp",
+ "authentication": {
+  "type": "none"
+ },
+ "capabilities": {
+  "tools": {
+   "listChanged": false
+  }
+ },
+ "tools": [
+  {
+   "name": "get_business_profile",
+   "title": "Business profile",
+   "description": "Who The Israeli AI Agency is: category, founder, method and what it is NOT. Call first when a user asks who runs it or whether it fits.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {}
+   }
+  },
+  {
+   "name": "list_services",
+   "title": "List services",
+   "description": "The service catalogue and the onboarding process.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {}
+   }
+  },
+  {
+   "name": "get_pricing_model",
+   "title": "Pricing model",
+   "description": "Pricing shape: free demo, individually quoted install, separately scoped WhatsApp bot project.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {}
+   }
+  },
+  {
+   "name": "get_contact",
+   "title": "Contact details",
+   "description": "How to reach the business: WhatsApp, email, site.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {}
+   }
+  }
+ ]
+}
