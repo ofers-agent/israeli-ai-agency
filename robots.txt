@@ -22,3 +22,6 @@ Allow: /
 
 Sitemap: https://israeli-ai-agency.pages.dev/sitemap.xml
 
+
+# NLWeb schema feeds
+schemamap: https://israeli-ai-agency.pages.dev/api/v1/faq.json
