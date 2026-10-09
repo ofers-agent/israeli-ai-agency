@@ -1,9 +1,30 @@
 {
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
-    { "name": "get_business_profile", "description": "Who The Israeli AI Agency is: a one-person studio installing owner-side personal AI agents for Israeli small businesses. Call first for fit.", "url": "https://israeli-ai-agency.pages.dev/mcp" },
-    { "name": "list_services", "description": "The service catalogue and onboarding process: personal agent installation, separately scoped WhatsApp bot project.", "url": "https://israeli-ai-agency.pages.dev/mcp" },
-    { "name": "get_pricing_model", "description": "Pricing shape: free demo on the owner's business, individually quoted install, no public price list.", "url": "https://israeli-ai-agency.pages.dev/mcp" },
-    { "name": "get_contact", "description": "WhatsApp, email and site for reaching the studio.", "url": "https://israeli-ai-agency.pages.dev/mcp" },
-    { "name": "read_faq", "description": "Frequently asked questions and short answers in Hebrew.", "url": "https://israeli-ai-agency.pages.dev/api/v1/faq.json" }
+    {
+      "name": "get_business_profile",
+      "description": "Who The Israeli AI Agency is: a one-person studio installing owner-side personal AI agents for Israeli small businesses. Call first for fit.",
+      "url": "https://israeli-ai-agency.pages.dev/mcp"
+    },
+    {
+      "name": "list_services",
+      "description": "The service catalogue and onboarding process: personal agent installation, separately scoped WhatsApp bot project.",
+      "url": "https://israeli-ai-agency.pages.dev/mcp"
+    },
+    {
+      "name": "get_pricing_model",
+      "description": "Pricing shape: free demo on the owner's business, individually quoted install, no public price list.",
+      "url": "https://israeli-ai-agency.pages.dev/mcp"
+    },
+    {
+      "name": "get_contact",
+      "description": "WhatsApp, email and site for reaching the studio.",
+      "url": "https://israeli-ai-agency.pages.dev/mcp"
+    },
+    {
+      "name": "read_faq",
+      "description": "Frequently asked questions and short answers in Hebrew.",
+      "url": "https://israeli-ai-agency.pages.dev/api/v1/faq.json"
+    }
   ]
 }
