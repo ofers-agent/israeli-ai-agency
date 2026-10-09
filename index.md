@@ -1,3 +1,10 @@
+---
+title: "הסוכנות לבינה מלאכותית | The Israeli AI Agency"
+description: "התקנת סוכן AI אישי לעסקים קטנים בישראל, עם ליווי לאורך זמן"
+canonical: "https://israeli-ai-agency.pages.dev/"
+lang: he
+---
+
 # הסוכנות לבינה מלאכותית | The Israeli AI Agency
 
 סוכן AI אישי לבעל העסק - התקנה וכיוונון לעסקים קטנים בישראל, עם ליווי לאורך זמן.
