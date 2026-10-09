@@ -51,5 +51,7 @@
     "properties": {}
    }
   }
- ]
+ ],
+ "icon": "https://israeli-ai-agency.pages.dev/assets/og.png",
+ "instructions": "Read-only business data for The Israeli AI Agency. Call get_business_profile first, then list_services or get_pricing_model, and end with get_contact for handoff to a human."
 }
