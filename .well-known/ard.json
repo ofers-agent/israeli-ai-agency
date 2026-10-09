@@ -1,11 +1,17 @@
 {
+  "specVersion": "0.91",
   "entries": [
     {
       "identifier": "urn:air:israeli-ai-agency.pages.dev:server:israeli-ai-agency-mcp",
       "displayName": "The Israeli AI Agency MCP Server",
       "type": "application/mcp-server-card+json",
       "url": "https://israeli-ai-agency.pages.dev/mcp",
-      "capabilities": ["get_business_profile", "list_services", "get_pricing_model", "get_contact"],
+      "capabilities": [
+        "get_business_profile",
+        "list_services",
+        "get_pricing_model",
+        "get_contact"
+      ],
       "description": "Read-only MCP server describing The Israeli AI Agency: who it is, the services, the pricing model and how to make contact.",
       "representativeQueries": [
         "who installs personal AI agents for small businesses in Israel",
@@ -29,7 +35,12 @@
       "displayName": "The Israeli AI Agency Public Read API",
       "type": "application/openapi+json",
       "url": "https://israeli-ai-agency.pages.dev/openapi.json",
-      "capabilities": ["profile", "services", "pricing", "faq"],
+      "capabilities": [
+        "profile",
+        "services",
+        "pricing",
+        "faq"
+      ],
       "description": "OpenAPI-described, keyless read-only JSON API: business profile, service catalogue, pricing structure and FAQ.",
       "representativeQueries": [
         "get the service catalogue of The Israeli AI Agency as JSON",
